@@ -1,7 +1,7 @@
 # restrictedWords
 ### Usage
 ```
-import { isForbiddenName } from 'restrictedWords'
+import { isForbiddenName } from 'restrictedwords'
 
 console.log(isForbiddenName('admin'))//got false
 ```

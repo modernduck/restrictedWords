@@ -1,0 +1,19 @@
+{
+  "name": "restrictedwords",
+  "version": "1.0.0",
+  "description": "simple function to find forbidden name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modernduck/restrictedWords.git"
+  },
+  "author": "Sompop Kulapalanont",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/modernduck/restrictedWords/issues"
+  },
+  "homepage": "https://github.com/modernduck/restrictedWords#readme"
+}
