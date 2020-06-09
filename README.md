@@ -3,5 +3,5 @@
 ```
 import { isForbiddenName } from 'restrictedWords'
 
-console.log(isForbiddenName('admin))//got false
+console.log(isForbiddenName('admin'))//got false
 ```
