@@ -1,6 +1,6 @@
 {
   "name": "restrictedwords",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "simple function to find forbidden name",
   "main": "index.js",
   "scripts": {
